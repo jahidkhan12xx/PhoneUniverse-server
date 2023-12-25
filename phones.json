@@ -1,0 +1,452 @@
+[
+    {
+      "name": "Galaxy S21",
+      "brand":"samsung",
+      "price": 899.99,
+      "os_ver": "Android 11",
+      "os_type": "android", 
+      "processor": "Exynos 2100",
+      "processor_type":"exynos",
+      "img": "https://i.ibb.co/8Mfr4pd/samsung-galaxy-s21-5g-0.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 128,
+        "ram": 8
+      }
+    },
+    {
+      "name": "Galaxy S20 FE",
+      "brand":"samsung",
+      "price": 699.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 865",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/JQ40xqs/samsung-galaxy-s20-fe-5g-1.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 256,
+        "ram": 6
+      }
+    },
+    {
+      "name": "Galaxy A52",
+      "brand":"samsung",
+      "price": 449.99,
+      "os": "Android 11",
+      "os_type": "android",
+      "processor": "Snapdragon 720G",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/JBG9nKj/samsung-galaxy-a52-4g-10.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 6
+      }
+    },
+    {
+      "name": "Galaxy Note 20 Ultra",
+      "brand":"samsung",
+      "price": 1299.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Exynos 990",
+      "processor_type":"exynos",
+      "img": "https://i.ibb.co/L1G6GwN/samsung-galaxy-note20-ultra-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 512,
+        "ram": 12
+      }
+    },
+    {
+      "name": "Galaxy Z Fold 3",
+      "brand":"samsung",
+      "price": 1799.99,
+      "os": "Android 11",
+      "os_type": "android",
+      "processor": "Snapdragon 888",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/b5mWQDj/galaxy-z-fold-3-1.jpg",
+      "type": "Foldable",
+      "memory": {
+        "internal": 256,
+        "ram": 12
+      }
+    },
+    {
+      "name": "Galaxy A32",
+      "brand":"samsung",
+      "price": 299.99,
+      "os": "Android 11",
+      "os_type": "android",
+      "processor": "Mediatek Helio G80",
+      "processor_type":"mediatek",
+      "img": "https://i.ibb.co/QmTt2NY/samsung-galaxy-a32-4g-3.jpg",
+      "type": "Budget",
+      "memory": {
+        "internal": 64,
+        "ram": 4
+      }
+    },
+    {
+      "name": "iPhone 13",
+      "brand":"apple",
+      "price": 1099.99,
+      "os": "iOS 15",
+      "os_type": "ios",
+      "processor": "A15 Bionic",
+      "processor_type":"bionic",
+      "img": "https://i.ibb.co/ZcKQGLB/apple-iphone-13-01.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 256,
+        "ram": 6
+      }
+    },
+    {
+      "name": "iPhone 12 Mini",
+      "brand":"apple",
+      "price": 699.99,
+      "os": "iOS 14",
+      "os_type": "ios",
+      "processor": "A14 Bionic",
+      "processor_type":"bionic",
+      "img": "https://i.ibb.co/D56b4nh/apple-iphone-12-mini-r1.jpg",
+      "type": "Compact",
+      "memory": {
+        "internal": 128,
+        "ram": 4
+      }
+    },
+    {
+      "name": "iPhone SE (2nd Gen)",
+      "brand":"apple",
+      "price": 399.99,
+      "os": "iOS 13",
+      "os_type": "ios",
+      "processor": "A13 Bionic",
+      "processor_type":"bionic",
+      "img": "https://i.ibb.co/dLdWVKR/apple-iphone-se-2020-2.jpg",
+      "type": "Budget",
+      "memory": {
+        "internal": 64,
+        "ram": 3
+      }
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "brand":"apple",
+      "price": 1199.99,
+      "os": "iOS 13",
+      "os_type": "ios",
+      "processor": "A13 Bionic",
+      "processor_type":"bionic",
+      "img": "https://i.ibb.co/BwWnhn3/apple-iphone-11-pro-max-4.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 512,
+        "ram": 6
+      }
+    },
+    {
+      "name": "iPhone XR",
+      "brand":"apple",
+      "price": 599.99,
+      "os": "iOS 12",
+      "os_type": "ios",
+      "processor": "A12 Bionic",
+      "processor_type":"bionic",
+      "img": "https://i.ibb.co/R4jnhZV/apple-iphone-xr-6.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 3
+      }
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "price": 1299.99,
+      "brand":"apple",
+      "os": "iOS 15",
+      "os_type": "ios",
+      "processor": "A15 Bionic",
+      "processor_type":"bionic",
+      "img": "https://i.ibb.co/NLJ8Nn2/apple-iphone-13-pro-max-01.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 512,
+        "ram": 8
+      }
+    },
+    {
+      "name": "Pixel 5a",
+      "brand":"google",
+      "price": 499.99,
+      "os": "Android 12",
+      "os_type": "android",
+      "processor": "Snapdragon 765G",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/4Mt6shr/google-pixel-5a-5g-00.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 6
+      }
+    },
+    {
+      "name": "Pixel 6",
+      "brand":"google",
+      "price": 799.99,
+      "os": "Android 12",
+      "os_type": "android",
+      "processor": "Google Tensor",
+      "processor_type":"google",
+      "img": "https://i.ibb.co/m5Q9zLR/google-pixel-6-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 256,
+        "ram": 8
+      }
+    },
+    {
+      "name": "Pixel 4a",
+      "brand":"google",
+      "price": 349.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 730",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/b7tFZgB/google-pixel-4a-1.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 6
+      }
+    },
+    {
+      "name": "Pixel 3 XL",
+      "brand":"google",
+      "price": 799.99,
+      "os": "Android 9",
+      "os_type": "android",
+      "processor": "Snapdragon 845",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/z75hxPY/google-pixel-3xl-4.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 128,
+        "ram": 4
+      }
+    },
+    {
+      "name": "Pixel 5",
+      "brand":"google",
+      "price": 699.99,
+      "os": "Android 11",
+      "os_type": "android",
+      "processor": "Snapdragon 765G",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/HTWQMdp/google-pixel-5-5g-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 128,
+        "ram": 8
+      }
+    },
+    {
+      "name": "Pixel 4",
+      "brand":"google",
+      "price": 799.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 855",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/SmmZVfY/google-pixel-4-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 128,
+        "ram": 6
+      }
+    },
+    {
+      "name": "OnePlus 9",
+      "brand":"oneplus",
+      "price": 799.99,
+      "os": "OxygenOS (Android 11)",
+      "os_type": "oxygenOS",
+      "processor": "Snapdragon 888",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/rZbz0FQ/oneplus-9-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 256,
+        "ram": 12
+      }
+    },
+    {
+      "name": "OnePlus Nord",
+      "brand":"oneplus",
+      "price": 499.99,
+      "os": "OxygenOS (Android 10)",
+      "os_type": "oxygenOS",
+      "processor": "Snapdragon 765G",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/G2xLQkN/oneplus-nord-1.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 8
+      }
+    },
+    {
+      "name": "OnePlus 8T",
+      "brand":"oneplus",
+      "price": 699.99,
+      "os": "OxygenOS (Android 11)",
+      "os_type": "oxygenOS",
+      "processor": "Snapdragon 865",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/MPR7pHd/oneplus-8t-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 256,
+        "ram": 12
+      }
+    },
+    {
+      "name": "OnePlus Nord 2",
+      "brand":"oneplus",
+      "price": 549.99,
+      "os": "OxygenOS (Android 11)",
+      "os_type": "oxygenOS",
+      "processor": "Dimensity 1200",
+      "processor_type":"mediatek",
+      "img": "https://i.ibb.co/QH5CXzK/oneplus-nord-2-5g-1.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 8
+      }
+    },
+    {
+      "name": "OnePlus 7 Pro",
+      "brand":"oneplus",
+      "price": 799.99,
+      "os": "OxygenOS (Android 10)",
+      "os_type": "oxygenOS",
+      "processor": "Snapdragon 855",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/ZYhBgpS/oneplus-7-pro-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 256,
+        "ram": 8
+      }
+    },
+    {
+      "name": "OnePlus 9R",
+      "brand":"oneplus",
+      "price": 599.99,
+      "os": "OxygenOS (Android 11)",
+      "os_type": "oxygenOS",
+      "processor": "Snapdragon 870",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/ZYhBgpS/oneplus-7-pro-1.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 8
+      }
+    },
+    {
+      "name": "Moto G Power",
+      "brand":"moto",
+      "price": 249.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 662",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/1mLwgYT/motorola-moto-g-power-1.jpg",
+      "type": "Budget",
+      "memory": {
+        "internal": 64,
+        "ram": 4
+      }
+    },
+    {
+      "name": "Moto G Stylus",
+      "brand":"moto",
+      "price": 299.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 678",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/BKwd2Vv/motorola-moto-g-stylus-5g-1.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 4
+      }
+    },
+    {
+      "name": "Moto G Fast",
+      "brand":"moto",
+      "price": 199.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 665",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/0fhVK8q/motorola-moto-g-fast-1.jpg",
+      "type": "Budget",
+      "memory": {
+        "internal": 32,
+        "ram": 3
+      }
+    },
+    {
+      "name": "Moto Edge",
+      "brand":"moto",
+      "price": 699.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 765G",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/1Ttz5zJ/motorola-edge-2023-1.jpg",
+      "type": "Flagship",
+      "memory": {
+        "internal": 256,
+        "ram": 6
+      }
+    },
+    {
+      "name": "Moto G9 Plus",
+      "brand":"moto",
+      "price": 349.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "Snapdragon 730G",
+      "processor_type":"snapdragon",
+      "img": "https://i.ibb.co/KrwRF4V/motorola-moto-g9-plus-1.jpg",
+      "type": "Midrange",
+      "memory": {
+        "internal": 128,
+        "ram": 4
+      }
+    },
+    {
+      "name": "Moto E7",
+      "brand":"moto",
+      "price": 149.99,
+      "os": "Android 10",
+      "os_type": "android",
+      "processor": "MediaTek Helio G25",
+      "processor_type":"mediatek",
+      "img": "https://i.ibb.co/QQTd6Yy/motorola-moto-e7-1.jpg",
+      "type": "Budget",
+      "memory": {
+        "internal": 32,
+        "ram": 2
+      }
+    }
+  ]
